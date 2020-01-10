@@ -1,0 +1,15 @@
+*.a
+*.o
+*.in
+autom4te.cache
+configure
+aclocal.m4
+compile
+depcomp
+install-sh
+missing
+config.status
+config.log
+Makefile
+ecjpaketest
+openssl-ecjpake-*.tar.gz
